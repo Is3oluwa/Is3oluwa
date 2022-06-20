@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on basic front-end web projects
 - 📫 How to reach me iseoyedotun@gmail.com
 
-Call me BANKAO
+Call me BANKAI
 
 <!---
 Is3oluwa/Is3oluwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
