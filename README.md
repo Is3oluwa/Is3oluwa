@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Is3oluwa
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning the basics of front-end web development and node.js
-- 💞️ I’m looking to collaborate on basic front-end web projects
-- 📫 How to reach me iseoyedotun@gmail.com
+- 👀 Product Designer sometimes exploring code with the help of AI
+- 🌱 Currently shipping with Claude Code 
+- 💞️ Hit me up if you have any cool ideas you want to ship.
+- 📫 Send an email **iseoyedotun@gmail.com**
 
-Call me BANKAI
 
 <!---
 Is3oluwa/Is3oluwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
